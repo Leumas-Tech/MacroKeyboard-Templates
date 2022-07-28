@@ -7,5 +7,20 @@ Ill leave it like this.
 For example We tell alexa turn on the lights, why cant she be smart enough to know what light I mean specifically? I wanna be less specific with our AI, while the AI simultaneously becomes ... more understanding? 
 
 
-SKETCHES COMING SOON! -7/28/2022
+ARDUINO CIRCUIT SKETCHES COMING SOON! -7/28/2022
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![xlabz png 500 x 500](https://user-images.githubusercontent.com/92896220/181507523-48cbe153-6982-42bb-8e7e-a8ef4b59320f.png)
